@@ -1,0 +1,40 @@
+dict = {'key1':'value1', 'key2':'satish', 'day':'Monday', 'key3':'satish'}
+list = [2, 4, 'satish', 6.7]
+project
+   package_name(fature)
+       directory(steps)
+           test.py
+           fature_file(define the scenarios)
+
+list1 = [1, 2, 3, 4, ,5, 6]
+list2 = [2, 5, 8, 9]
+for i in range(len(list1)):
+      for j in range(list2)):
+
+     if list1[i] == list2[j]:
+         print(both the data are equal)
+              i=i+1
+              j=j+1
+else:
+print(both elements are not equal)
+
+write the file
+with open('filename.txt', 'w') as file
+    content = file.write()
+
+select * from table1 and select * from table2 where table1.coulumn == table2.column
+html <div>
+<input> id='froce'
+</input>
+
+
+</div>
+driver = webdriver.Chrome()
+driver.get("url")
+driver.implictlyWait(10)
+
+//explicit wait
+wait=webbdriverWait(driver, 10)
+wait.until(ExpectedConditions.element_to_be_clickabble(element))
+
+
