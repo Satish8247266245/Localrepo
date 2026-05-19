@@ -6,4 +6,7 @@ class Asynchronous:
             print("Asynchronous")
 
 obj = Asynchronous(200, 300)
+<<<<<<< HEAD
+=======
 obj_1=Asynchronous(200, 200)
+>>>>>>> new_branch
